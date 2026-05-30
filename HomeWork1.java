@@ -30,7 +30,7 @@ class Square extends Shape {
     }
 }
 
-public class Solution {
+public class HomeWork1 {
     
     public static void printArea(Shape shape) {
         System.out.println("Area: " + shape.getArea());
@@ -38,9 +38,9 @@ public class Solution {
     
     public static void main(String[] args) {
         Rectangle rect = new Rectangle(5, 10);
-        printArea(rect);  // Area: 50.0
+        printArea(rect);  // 50.0
         
         Square square = new Square(7);
-        printArea(square);  // Area: 49.0
+        printArea(square);  // 49.0
     }
 }
