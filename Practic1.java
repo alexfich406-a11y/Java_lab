@@ -30,7 +30,7 @@ class Square extends Shape {
     }
 }
 
-public class HomeWork1 {
+public class Practic1 {
     
     public static void printArea(Shape shape) {
         System.out.println("Area: " + shape.getArea());
