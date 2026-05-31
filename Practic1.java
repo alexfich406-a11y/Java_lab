@@ -1,4 +1,4 @@
-public class Solution {
+public class Practic1 {
     public static void main(String[] args){
         int a = 10, b = 3;
         int add = a + b;
