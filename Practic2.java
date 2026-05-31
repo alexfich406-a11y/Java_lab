@@ -33,7 +33,7 @@ class Container {
     }
 }
 //Внутренний класс имеет доступ ко всем полями и методам независимо от спецификатора
-public class Solution {
+public class Practic2 {
     public static void main(String[] args) {
         Container Container = new Container();
         Container.createInternalClass();
