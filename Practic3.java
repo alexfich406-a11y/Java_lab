@@ -24,7 +24,7 @@ class A {
     }
 }
 
-public class Practic2 {
+public class Practic3 {
 	  public static void main(String[] args){
         
     }
